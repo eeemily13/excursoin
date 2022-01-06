@@ -20,8 +20,23 @@ h1 {
 h2 {
     color:gray;
     text-align: center;
+    font-size: 21px;
+    font-family:verdana;
+
 }
 body {
     background-color: black;
     text-align: center;
+}
+img {
+    text-align: center;
+}
+.value1{
+    font-weight: 300;
+    font-size: 42px;
+}
+footer{
+    text-align: right;
+    color:gray;
+    font-family:verdana;
 }
