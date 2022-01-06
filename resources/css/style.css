@@ -1,8 +1,8 @@
-div , h1, h2, body{
+h1, h2{
     font-family: Verdana;
     background-color: black;
 }
-a, h1, h2, body { 
+a, h1, h2{ 
     font-family: Verdana;
 }
 a{
