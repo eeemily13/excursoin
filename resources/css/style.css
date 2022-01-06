@@ -1,0 +1,19 @@
+div , h1, h2, body{
+    font-family: Verdana;
+    background-color: black;
+}
+a, h1, h2, body { 
+    font-family: Verdana;
+}
+a{
+    color:aquamarine;
+}
+h1 {
+    color:white;
+}
+h2 {
+    color:gray;
+}
+body {
+    background-color: black;
+}
