@@ -1,19 +1,27 @@
+
 h1, h2{
     font-family: Verdana;
     background-color: black;
+
 }
 a, h1, h2{ 
     font-family: Verdana;
 }
 a{
     color:aquamarine;
+    font-size: 16px;
+    text-align: center;
 }
 h1 {
     color:white;
+    font-weight: normal;
+    text-align: center;
 }
 h2 {
     color:gray;
+    text-align: center;
 }
 body {
     background-color: black;
+    text-align: center;
 }
